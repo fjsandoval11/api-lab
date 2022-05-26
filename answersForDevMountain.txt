@@ -1,0 +1,20 @@
+1. Accepts params : text object
+
+2. object array of all posts
+
+3.https://practiceapi.devmountain.com/api/delete/id:555
+
+4. 200, 409
+
+5.https://practiceapi.devmountain.com/api/posts?id=1016
+
+6'PUT' \
+  'https://practiceapi.devmountain.com/api/posts?id=1016' \
+
+  7. https://practiceapi.devmountain.com/api/posts/filter?text=blue
+
+  8. content-type: application/json; charset=utf-8 
+
+  9. Request was missing req.query.id or req.body.text
+
+  10. 
